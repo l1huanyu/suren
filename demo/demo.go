@@ -1,13 +1,3 @@
-# suren
-golang微信公众号开发框架，苏伦（Suren），取自《文理双修》女主角 苏伦·曼彻斯特·斯托克。
-
-### Install
-```text
-go get github.com/l1huanyu/suren
-```
-
-### Example
-```go
 package main
 
 import (
@@ -50,4 +40,3 @@ func main() {
 	})
 	e.Start(":8823")
 }
-```
