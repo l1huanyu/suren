@@ -3,7 +3,7 @@ golang微信公众号开发框架，苏伦（Suren），取自《文理双修》
 
 ### Install
 ```text
-go get github.com/l1huanyu/suren
+go get -u -v github.com/l1huanyu/suren
 ```
 
 ### Example
